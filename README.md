@@ -1,1 +1,2 @@
-# alx_be_shell
+#!/bin/bash
+switched user to betty
